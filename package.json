@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-mnemonic",
+  "name": "ayacore-mnemonic",
   "version": "1.7.0",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "BitPay <dev@bitpay.com>",
@@ -40,10 +40,10 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "bitcore-lib": "^0.16.0",
+    "bitcore-lib-aryacoin": "https://github.com/Aryacoin/bitcore-lib-aryacoin.git",
     "unorm": "^1.4.1"
   },
   "peerDependencies": {
-    "bitcore-lib": "^0.16.0"
+    "bitcore-lib-aryacoin": "https://github.com/Aryacoin/bitcore-lib-aryacoin.git"
   }
 }
