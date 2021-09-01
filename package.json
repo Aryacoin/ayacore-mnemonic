@@ -40,10 +40,10 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "bitcore-lib-aryacoin": "https://github.com/Aryacoin/bitcore-lib-aryacoin.git",
+    "ayacore-lib": "https://github.com/Aryacoin/bitcore-lib-aryacoin.git",
     "unorm": "^1.4.1"
   },
   "peerDependencies": {
-    "bitcore-lib-aryacoin": "https://github.com/Aryacoin/bitcore-lib-aryacoin.git"
+    "ayacore-lib": "https://github.com/Aryacoin/bitcore-lib-aryacoin.git"
   }
 }
